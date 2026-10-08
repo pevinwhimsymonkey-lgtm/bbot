@@ -1,15 +1,15 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "Iam-Suhas",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "pixelberry.aternos.me",
-    "port": 36162,
+    "ip": "soulkillers.aternos.me",
+    "port": 25565,
     "version": "",
-    "try-creative": false
+    "try-creative": true
   },
   "position": {
     "enabled": true,
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "Boka6767"
     },
     "anti-afk": {
       "enabled": true,
@@ -31,9 +31,7 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to MRDragon_MC!",
-        "I like to play Minecraft!"
+        "Mn Boka"
       ]
     },
     "chat-log": true,
@@ -74,7 +72,7 @@
     "auto-eat": true
   },
   "beds": {
-    "pick-up-day": false,
+    "pick-up-day": true,
     "place-night": true
   },
   "discord": {
